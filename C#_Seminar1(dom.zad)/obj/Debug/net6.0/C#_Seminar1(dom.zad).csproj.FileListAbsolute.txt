@@ -1,0 +1,15 @@
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\bin\Debug\net6.0\C#_Seminar1(dom.zad).exe
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\bin\Debug\net6.0\C#_Seminar1(dom.zad).deps.json
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\bin\Debug\net6.0\C#_Seminar1(dom.zad).runtimeconfig.json
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\bin\Debug\net6.0\C#_Seminar1(dom.zad).dll
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\bin\Debug\net6.0\C#_Seminar1(dom.zad).pdb
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).csproj.AssemblyReference.cache
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).AssemblyInfoInputs.cache
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).AssemblyInfo.cs
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).csproj.CoreCompileInputs.cache
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).dll
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\refint\C#_Seminar1(dom.zad).dll
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).pdb
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\C#_Seminar1(dom.zad).genruntimeconfig.cache
+C:\Users\Oleg1417\Desktop\C#_dom.zad\C#_Seminar1(dom.zad)\obj\Debug\net6.0\ref\C#_Seminar1(dom.zad).dll
